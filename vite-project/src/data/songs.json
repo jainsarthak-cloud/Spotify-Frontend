@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Dreams of Tomorrow",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "singer": "Arijit Singh",
+    "category": "Pop"
+  },
+  {
+    "id": 2,
+    "title": "Midnight Vibes",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "singer": "Shreya Ghoshal",
+    "category": "Pop"
+  },
+  {
+    "id": 3,
+    "title": "Lost in You",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "singer": "Atif Aslam",
+    "category": "Pop"
+  },
+  {
+    "id": 4,
+    "title": "Silent Waves",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "singer": "Neha Kakkar",
+    "category": "Pop"
+  },
+  {
+    "id": 5,
+    "title": "City Lights",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "singer": "Darshan Raval",
+    "category": "Pop"
+  },
+  {
+    "id": 6,
+    "title": "Forever Love",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "singer": "Armaan Malik",
+    "category": "pop"
+  },
+  {
+    "id": 7,
+    "title": "Broken Strings",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    "singer": "Jubin Nautiyal",
+    "category": "rock"
+  },
+  {
+    "id": 8,
+    "title": "Endless Journey",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "singer": "Sunidhi Chauhan",
+    "category": "rock"
+  },
+  {
+    "id": 9,
+    "title": "Fire Within",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+    "singer": "Badshah",
+    "category": "rock"
+  },
+  {
+    "id": 10,
+    "title": "Echoes of Heart",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+    "singer": "KK",
+    "category": "rock"
+  },
+  {
+    "id": 11,
+    "title": "Chasing Stars",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+    "singer": "Mohit Chauhan",
+    "category": "rock"
+  },
+  {
+    "id": 12,
+    "title": "Golden Sky",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+    "singer": "Amit Trivedi",
+    "category": "rock"
+  },
+  {
+    "id": 13,
+    "title": "Ocean Eyes",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+    "singer": "Ritviz",
+    "category": "folk"
+  },
+  {
+    "id": 14,
+    "title": "Rhythm Divine",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+    "singer": "Yo Yo Honey Singh",
+    "category": "folk"
+  },
+  {
+    "id": 15,
+    "title": "Lost Memories",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+    "singer": "Palak Muchhal",
+    "category": "folk"
+  },
+  {
+    "id": 16,
+    "title": "Night Drive",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+    "singer": "Ankit Tiwari",
+    "category": "folk"
+  },
+  {
+    "id": 17,
+    "title": "Fading Lights",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-17.mp3",
+    "singer": "Prateek Kuhad",
+    "category": "folk"
+  },
+  {
+    "id": 18,
+    "title": "Magic Moments",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-18.mp3",
+    "singer": "Jonita Gandhi",
+    "category": "folk"
+  },
+  {
+    "id": 19,
+    "title": "Heartbeats",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-19.mp3",
+    "singer": "Sachet Tandon",
+    "category": "folk"
+  },
+  {
+    "id": 20,
+    "title": "Final Horizon",
+    "songUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-20.mp3",
+    "singer": "Tulsi Kumar",
+    "category": "folk"
+  }
+]
